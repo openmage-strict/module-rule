@@ -1,4 +1,3 @@
-src/app/code/core/Mage/Rule/ 					app/code/core/Mage/Rule/
-src/app/etc/modules/Mage_Rule.xml 				app/etc/modules/Mage_Rule.xml
-src/app/locale/en_US/Mage_Rule.csv 				app/locale/en_US/Mage_Rule.csv 
-
+src/app/code/core/Mage/Rule/            app/code/core/Mage/Rule/
+src/app/etc/modules/Mage_Rule.xml       app/etc/modules/Mage_Rule.xml
+src/app/locale/en_US/Mage_Rule.csv      app/locale/en_US/Mage_Rule.csv
